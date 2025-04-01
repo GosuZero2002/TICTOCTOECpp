@@ -35,5 +35,3 @@
    ```
 
 ---
-
-Nếu bạn muốn cải thiện trò chơi, có thể nâng cấp bằng cách thêm thuật toán **Minimax** để giúp máy tính chơi thông minh hơn. 🚀
